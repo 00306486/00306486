@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @00306486
+- 👀 I’m interested in Technology, software, programming, problem solving, and video games!
+- 🌱 I’m currently learning Linux administration, C , HTML , and CSS 
